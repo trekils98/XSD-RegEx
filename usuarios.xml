@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="restriccionUsuarios.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<usuarios>
+    <usuario>
+        <email>raulmolina.25@campuscamara.es</email>
+        <telefono>123-456-789</telefono>
+        <codigoPostal>41067</codigoPostal>
+        <nombreUsuario>trekils98</nombreUsuario>
+        <contrasena>abc123%%%</contrasena>
+    </usuario>
+
+</usuarios>
